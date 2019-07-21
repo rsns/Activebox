@@ -168,7 +168,7 @@ p {
 
     height: 750px;
     padding-top: 100px;
-    background: #31344e url("/img/intro/bg-img.jpg") center no-repeat / cover;
+    background: #31344e url("https://github.com/rsns/Activebox/blob/master/img/intro/bg-img.jpg") center no-repeat / cover;
 }
 
 .intro__inner {
